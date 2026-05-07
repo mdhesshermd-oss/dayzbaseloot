@@ -1,0 +1,3303 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+  <type name="KOD_AX50_Black">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Underground" />
+    <value name="Tier6" />
+  </type>
+  <type name="KOD_KSVK">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Underground" />
+    <value name="Tier6" />
+  </type>
+  <type name="KOD_Alligator">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Underground" />
+    <value name="Tier6" />
+  </type>
+  <type name="KOD_M82A2_Black">
+    <nominal>1</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Underground" />
+    <value name="Tier6" />
+  </type>
+  <type name="KOD_AR50A1">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier6" />
+  </type>
+  <type name="KOD_DVL10">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M200_Black">
+    <nominal>25</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="KOD_SV98_Green">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Kivaari_Black">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_AWM">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_R700">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_RSASS_Black">
+    <nominal>12</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_DVL10M1">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_CS5">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_SCARH">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="KOD_K98">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_SVU">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_VSSK">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_RPK16">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_AKALPHA">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_SA58">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="KOD_M16A4">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_MCR_Tan">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_MCR_Black">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_MCR_BlackTan">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_MCR_TanCamo">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_MCR_UCPCamo">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_MCR_WoodlandCamo">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_HK21_Black">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_HK21_Old">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_AR15Skeleton">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_SKS">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_AK15">
+    <nominal>16</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_AK12">
+    <nominal>16</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_TAR21_Black">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_TAR21_Tan">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_TAR21_Green">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_PKM">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_PKP">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_PKP_Tac_Black">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_PKP_Tac_FDE">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Evolys">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M60E3">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_AK47">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_DrumShotgun">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_Mk18">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_AKM">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_Scorpion">
+    <nominal>25</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <usage name="Military" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_M249">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_FAMAS">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_AEK971">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_VSK94">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_HK417">
+    <nominal>12</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Beowulf">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_MP5SD">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <usage name="Military" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Custom_Black">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Custom_Tan">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Custom_BlackTan">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Custom_TanBlack">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Standard_Black">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Standard_Tan">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Standard_BlackTan">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Standard_TanBlack">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Vector">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <usage name="Military" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_SUB2000">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_SUB2000_Suppressed">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_M1928A1">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_PPSh">
+    <nominal>7</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+  </type>
+  <type name="KOD_Revolver50Cal">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ASH12">
+    <nominal>12</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Raptr">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="KOD_VR80">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_KS23">
+    <nominal>15</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <usage name="Military" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_M32_Tan">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_M32_Black">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+  </type>
+  <type name="KOD_AmmoBox_20mm_5Rnd">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ADO_Mosin">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ADO_AK">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ADO">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_XSight_Mosin">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_XSight_AK">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Shortdot_Mosin">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Shortdot_AK">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Diamondback_Mosin">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Diamondback_AK">
+    <nominal>24</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>17</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AWM_Scope">
+    <nominal>8</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_LeupoldMk8_Mosin">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_LeupoldMk8_AK">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ATACR8_Mosin">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ATACR8_AK">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_XSight">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_K624_Mosin">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_K624_AK">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Shortdot">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_XM157_Mosin">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_XM157_AK">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_HAMR_Mosin">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_HAMR_AK">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_Mosin">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_AK">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_RMR_Mosin_Black">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_RMR_Mosin_FDE">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_RMR_AK_Black">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_RMR_AK_FDE">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_LeupoldMk8">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Diamondback">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_127x55_20Rnd">
+    <nominal>26</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_K624">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ATACR8">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ReapIR_Mosin">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ReapIR_AK">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Specter_Mosin">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Specter_AK">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_XM157">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_PKP_150rnd">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_PSO1">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_Beowulf_10rnd">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>18</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_HAMR">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Specter">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Spitfire_Mosin">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Spitfire_AK">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_50calBW_20Rnd">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_145x114_10Rnd">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_PKP_Tac_Buttstock_Black">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_PKP_Tac_Buttstock_FDE">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_RPK16_96rnd">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_AX50_5rnd">
+    <nominal>8</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_PKM_100rnd">
+    <nominal>27</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ReapIR">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_RMR_Black">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_ACOG_RMR_FDE">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_Drum308_50rnd">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_VSS_40rnd">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_AK47_20rnd">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_AKALPHA_30rnd">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_M60_100rnd">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_M249_200rnd">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_RSASS_20rnd">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Vector_Buttstock">
+    <nominal>25</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Police" />
+    <usage name="Military" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_VortexSpitfire_Mosin">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_VortexSpitfire_AK">
+    <nominal>28</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>19</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_OKP7_Mosin">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_OKP7_AK">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_RMR_Mosin_Black">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_RMR_Mosin_FDE">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_RMR_AK_Black">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_RMR_AK_FDE">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Spitfire">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AMG_Mosin">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AMG_AK">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_VortexSpitfire">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_HHS_Mosin">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_HHS_AK">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_458_30Rnd">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_50BMG_10Rnd">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_127x108_10Rnd">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_338_20Rnd">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AK_PolymerHndgrd_Black">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AK_PolymerHndgrd_FDE">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AR15Skeleton_Buttstock">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_AS50_10Rnd">
+    <nominal>8</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_HK21_50rnd">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_DrumShotgun_30rnd">
+    <nominal>5</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_Evolys_100rnd">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_GM6Lynx_5Rnd">
+    <nominal>8</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="Mag_KOD_M82A2_10rnd">
+    <nominal>29</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_OKP7">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AMG">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_HHS">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_AmmoBox_408_10Rnd">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_M1928A1_100rnd">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_Raptr_30rnd">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Hunting" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Grip_RK2_Black">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_Grip_Angled_FDE">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_Grip_Shift_Black">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_Grip_Vertical_Black">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_RIS_Bipod">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_Alligator_Bipod">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_FAMAS_Bipod">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_KSVK_Bipod">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_M200_Bipod_Grey">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M200_Bipod_Black">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M60E3_Bipod">
+    <nominal>20</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_PKP_Bipod">
+    <nominal>10</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_VSSK_Bipod">
+    <nominal>4</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_VSS_20rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_Alligator_5rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_Glock17_Black_30rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_Glock17_Tan_30rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_KSVK_5rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_M200_7rnd">
+    <nominal>8</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="Mag_KOD_SRS338_8rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_SRS408_5rnd">
+    <nominal>8</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_VR80_30rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_SCARH_30rnd">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_AKMount">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_MosinMount">
+    <nominal>41</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_VSK94_Silencer">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="KOD_VSK94_Silencer_Wrap">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+  </type>
+  <type name="Mag_KOD_HK417_20rnd">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_M1928A1_30rnd">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_ASH12_20rnd">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_DVL10M1_5rnd">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_M110_20rnd">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_Ruger_5rnd">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier2" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_SCARH_20rnd">
+    <nominal>42</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>31</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier2" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_DVL10_5rnd">
+    <nominal>44</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>32</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_SUB2000_30rnd">
+    <nominal>44</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>32</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+  </type>
+  <type name="Mag_KOD_VSK94_20rnd">
+    <nominal>44</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>32</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_Kivaari_10rnd">
+    <nominal>44</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>32</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_MDR_30rnd">
+    <nominal>44</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>32</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_RMR_Black">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_RMR_FDE">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_AmmoBox_762x25_50rnd">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M4Suppressor_NoCover">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M4Suppressor_Black">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M4Suppressor_Tan">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_M4Suppressor_Camo">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_PBS1Suppressor">
+    <nominal>45</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Military" />
+    <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_CS5_10rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_Glock17_Black_16rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_Glock17_Tan_16rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_SA58_20Rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_SKS_20rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_VSSK_5rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_VR80_10rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_AWM_5rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_PPSh_71rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_R700_7rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_AK458_20rnd">
+    <nominal>47</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>33</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Compensator_AR">
+    <nominal>48</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>34</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Compensator_AK">
+    <nominal>48</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>34</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_M110_10rnd">
+    <nominal>48</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>34</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_Glock17_FlashHider">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Glock17_Compensator">
+    <nominal>30</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>20</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="Mag_KOD_Scorpion_30rnd">
+    <nominal>49</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>34</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="Mag_KOD_SV98_10rnd">
+    <nominal>49</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>34</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_DTKPutnik_Black">
+    <nominal>49</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_DTKPutnik_White">
+    <nominal>49</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_DTKPutnik_Tan">
+    <nominal>50</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="Mag_KOD_Vector_30rnd">
+    <nominal>50</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_20mm">
+    <nominal>50</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_23x75">
+    <nominal>50</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_145x114">
+    <nominal>50</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_127x108">
+    <nominal>51</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+    <value name="Tier2" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_50BMG">
+    <nominal>51</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_408">
+    <nominal>51</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>35</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_338">
+    <nominal>52</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>36</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_Ammo_308WinAP">
+    <nominal>53</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>36</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_458">
+    <nominal>53</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>36</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <value name="Tier1" />
+  </type>
+  <type name="KOD_Ammo_40lw">
+    <nominal>53</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>36</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_792x57">
+    <nominal>53</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>36</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Ammo_762x25">
+    <nominal>53</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>37</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <usage name="Town" />
+    <usage name="Military" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+  </type>
+  <type name="KOD_Revolver50Cal_Cylinder">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>24</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+  <type name="KOD_Revolver50Cal_Ejector">
+    <nominal>40</nominal>
+    <lifetime>14400</lifetime>
+    <restock>1800</restock>
+    <min>24</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="weapons" />
+    <usage name="Town" />
+    <usage name="Police" />
+    <value name="Tier2" />
+  </type>
+</types>
