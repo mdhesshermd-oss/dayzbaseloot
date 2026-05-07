@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
 
-<!-- Restart message -->
+<!-- Сообщение о рестарте -->
 <message>
 <repeat>180</repeat>
 <deadline>180</deadline>
 <shutdown>1</shutdown>
-<text>WARNING! #name will shutdown in #tmin minutes.</text>
+<text>ВНИМАНИЕ! Сервер #name будет выключен через #tmin мин.</text>
 </message>
 
-<!-- Welcome message -->
+<!-- Приветственное сообщение -->
 <message>
 <delay>0</delay>
 <repeat>0</repeat>
 <onConnect>1</onConnect>
-<text>Welcome to #name, have fun!</text>
+<text>Добро пожаловать на сервер #name, приятной игры!</text>
 </message>
 
-<!-- Repeating message #1 -->
+<!-- Напоминание о правилах -->
 <message>
 <delay>0</delay>
 <repeat>0</repeat>
 <onConnect>1</onConnect>
-<text>Please read and follow our server rules!</text>
+<text>Пожалуйста, ознакомьтесь с правилами сервера и соблюдайте их!</text>
 </message>
 
-<!-- Repeating message #2 -->
+<!-- Желаем удачи -->
 <message>
 <delay>0</delay>
 <repeat>0</repeat>
 <onConnect>1</onConnect>
-<text>Have fun playing on our server.</text>
+<text>Желаем вам удачного выживания на нашем сервере.</text>
 </message>
 
-<!-- Repeating message #3 -->
+<!-- Ссылка на дискорд -->
 <message>
 <delay>0</delay>
 <repeat>0</repeat>
 <onConnect>1</onConnect>
-<text>Be sure to join our discord!</text>
+<text>Обязательно присоединяйтесь к нашему Discord!</text>
 </message>
 
 </messages>
